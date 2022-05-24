@@ -1,13 +1,13 @@
 {
   "name": "Limited guest access",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "slug": "limited_guest_access",
   "description": "Allow guests to access limited functions",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "boot": "auto",
   "options": {
     "activate_tls": false,
-    "external_url": "https://your-external-visitor-url.tld:port/"
+    "external_url": "https://your-external-visitor-url.tld:8888/"
   },
   "schema": {
     "activate_tls": "bool",
