@@ -24,5 +24,6 @@
     "ssl",
     "share"
   ],
-  "panel_icon": "mdi:card-account-details-outline"
+  "panel_icon": "mdi:card-account-details-outline",
+  "init": false
 }
