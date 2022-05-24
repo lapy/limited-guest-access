@@ -8,7 +8,7 @@
   "init": false,
   "options": {
     "activate_tls": false,
-    "external_url": "https://your-external-visitor-url.tld:port/"
+    "external_url": "https://your-external-visitor-url.tld:8888/"
   },
   "schema": {
     "activate_tls": "bool",
