@@ -42,7 +42,7 @@ To make use of this, you should create the files in the
 
 In home assistant, head to Supervisor -> add-on store 
 and press the [...] menu, then click repositories and paste
-`https://github.com/TekniskSupport/homeassistant-addons`
+`https://github.com/lapy/limited-guest-access`
 
 The add-on will now show up as a card along with the other add-ons
 
