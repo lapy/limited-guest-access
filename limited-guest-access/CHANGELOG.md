@@ -1,3 +1,8 @@
+## [0.1.24] - 2021-05-24
+### bugfix
+- Fix build error "s6-overlay-suexec: fatal: can only run as pid 1"
+- Add support for dashes in URLs
+
 ## [0.1.21] - 2020-10-28
 ### bugfix
 - New builds got newer nginx version that broke addon
